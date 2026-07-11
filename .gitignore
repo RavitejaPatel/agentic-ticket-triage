@@ -5,3 +5,4 @@ __pycache__/
 logs/*.jsonl
 .DS_Store
 __pycache__/
+data/tickets.csv
