@@ -1,6 +1,3 @@
-Here's your README — paste this into `README.md` in your project root (replace the placeholder auto-generated one from repo creation).
-
-```markdown
 # Agentic AI Ticket Triage
 
 A multi-agent AI system that automatically classifies, researches, drafts replies to, and routes customer support tickets — built to explore agentic AI architecture patterns (multi-agent orchestration, RAG, human-in-the-loop routing) end-to-end on real cloud infrastructure.
